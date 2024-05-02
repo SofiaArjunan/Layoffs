@@ -7,6 +7,7 @@ The dataset used for this analysis can be seen above.
 # Tools
 
 MYSQL - Data cleaning, Analyzing
+
 (Import csv file, create database, basic queries, aggregate functions, CTE's, string functions, date functions)
 
 
