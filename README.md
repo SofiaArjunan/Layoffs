@@ -26,7 +26,7 @@ MYSQL - Data cleaning, Analyzing
 5. Finding rolling sum of total laid off
 6. Ranking companies by total laid off
 
-Refer to my entire query : 
+Refer to my entire query : https://github.com/SofiaArjunan/Layoffs/blob/main/layoff.sql
 
 
 
